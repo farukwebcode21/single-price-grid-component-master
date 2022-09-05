@@ -94,18 +94,17 @@ span {
   letter-spacing: -0.0125rem;
   color: var(--light-gray);
 }
-li,
-ul span {
+li {
   font-weight: 400;
   font-size: 0.875rem;
   line-height: 1.5rem;
   letter-spacing: -0.0109rem;
   color: var(--white);
 }
-ul span {
+/* ul span {
   opacity: 75%;
   padding-left: 0.25rem;
-}
+} */
 .container ul li {
   filter: hue-rotate(-60deg);
 }
